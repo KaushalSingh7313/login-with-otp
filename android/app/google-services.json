@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294000242910",
+    "project_id": "myotplogin-42cb4",
+    "storage_bucket": "myotplogin-42cb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294000242910:android:0453712ff769ec2b5bd24f",
+        "android_client_info": {
+          "package_name": "com.techease.login_with_otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQuowGm3xOUe0Oa6M8vquqIhmjTBDnwRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
